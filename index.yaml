@@ -3,9 +3,9 @@ entries:
   primehub:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: 2019-05-10T04:39:56.095264619Z
+    created: 2019-06-17T10:26:47.941373647+08:00
     description: PrimeHub Community Edition
-    digest: 04e75c5767e5129a492d1eeb1e21aa98e8eca44fa81d19c8085d1900dbad97fc
+    digest: fef164e33bd05e596312b66ee3d6b4350bb4ad842a19ba7c355b696ee99eb0ae
     home: https://infuseai.io/primehub
     keywords:
     - jupyter
@@ -53,4 +53,4 @@ entries:
     urls:
     - https://InfuseAI.github.io/helm-chart/primehub-0.0.1-2214b31.tgz
     version: 0.0.1-2214b31
-generated: 2019-05-10T04:39:56.091105389Z
+generated: 2019-06-17T10:26:47.936032293+08:00
