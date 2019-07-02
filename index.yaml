@@ -111,6 +111,24 @@ entries:
     version: 0.1-9f8df24
   - apiVersion: v1
     appVersion: 0.1.0
+    created: 2019-07-02T08:33:00.63801295Z
+    description: PrimeHub Community Edition
+    digest: bfe4d865fe826230a2e1d16aafae60f3ebbf513690e3cab5ac74f388475ccc4c
+    home: https://infuseai.io/primehub
+    keywords:
+    - jupyter
+    maintainers:
+    - email: hi@infuseai.io
+      name: InfuseAI Inc.
+    name: primehub
+    sources:
+    - https://gitlab.com/infuseai/charts/primehub
+    tillerVersion: '>=2.11.0'
+    urls:
+    - https://InfuseAI.github.io/helm-chart/primehub-0.1-7fb15e7.tgz
+    version: 0.1-7fb15e7
+  - apiVersion: v1
+    appVersion: 0.1.0
     created: 2019-06-19T22:50:54.457012542Z
     description: PrimeHub Community Edition
     digest: 68034db69b2d4ecd278fd6d63b86383fb3b16df1b2a6ae495df50e9d134f25d0
@@ -197,4 +215,4 @@ entries:
     urls:
     - https://InfuseAI.github.io/helm-chart/primehub-0.0.1-2214b31.tgz
     version: 0.0.1-2214b31
-generated: 2019-07-01T02:28:45.414429391Z
+generated: 2019-07-02T08:33:00.633602125Z
