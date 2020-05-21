@@ -2,9 +2,9 @@ apiVersion: v1
 entries:
   primehub:
   - appVersion: LOCAL
-    created: "2020-05-21T16:16:10.784422+08:00"
+    created: "2020-05-21T16:22:41.891367+08:00"
     description: Machine learning platform for enterprises.
-    digest: e7b844a61e4b50eb0c3ee73c69436020d104354a559d34ae424aa4a250eeef64
+    digest: f6e23a736ec49be4b04d18732aa0d668d362c6d46218f9c29fced2b923f6ae51
     name: primehub
     urls:
     - https://InfuseAI.github.io/helm-chart/primehub-5.2.1.tgz
@@ -241,4 +241,4 @@ entries:
     urls:
     - https://InfuseAI.github.io/helm-chart/primehub-0.0.1-2214b31.tgz
     version: 0.0.1-2214b31
-generated: "2020-05-21T16:16:10.773113+08:00"
+generated: "2020-05-21T16:22:41.878842+08:00"
