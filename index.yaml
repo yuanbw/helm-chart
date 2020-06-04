@@ -1,5 +1,15 @@
 apiVersion: v1
 entries:
+  metacontroller:
+  - apiVersion: v1
+    appVersion: "0.2"
+    created: "2020-06-04T10:44:08.47424+08:00"
+    description: Ｍetacontroller
+    digest: a79fccd57b16ed49e98b4cb53e301bcbcac46dd46e4d2fd080142816346d97bd
+    name: metacontroller
+    urls:
+    - https://charts.infuseai.io/metacontroller-0.1.0.tgz
+    version: 0.1.0
   primehub:
   - appVersion: v0.2.9
     created: "2020-05-22T08:00:15.828815958Z"
@@ -25,4 +35,4 @@ entries:
     urls:
     - https://charts.infuseai.io/primehub-0.2.6.tgz
     version: 0.2.6
-generated: "2020-05-22T08:00:15.820556808Z"
+generated: "2020-06-04T10:44:08.473288+08:00"
