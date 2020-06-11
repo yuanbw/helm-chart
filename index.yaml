@@ -11,6 +11,14 @@ entries:
     - https://charts.infuseai.io/metacontroller-0.1.0.tgz
     version: 0.1.0
   primehub:
+  - appVersion: v2.7.0
+    created: "2020-06-11T07:43:44.620093827Z"
+    description: Machine learning platform for enterprises.
+    digest: a355f832618a8e6998ccba38306e3c2b3a4cc914d0feaa4a5721bb1b5d3f7c9f
+    name: primehub
+    urls:
+    - https://charts.infuseai.io/primehub-2.7.0.tgz
+    version: 2.7.0
   - appVersion: v2.7.0-rc.1
     created: "2020-06-04T08:38:41.369476412Z"
     description: Machine learning platform for enterprises.
@@ -51,4 +59,4 @@ entries:
     urls:
     - https://charts.infuseai.io/primehub-0.2.6.tgz
     version: 0.2.6
-generated: "2020-06-04T08:38:41.360507513Z"
+generated: "2020-06-11T07:43:44.610956132Z"
