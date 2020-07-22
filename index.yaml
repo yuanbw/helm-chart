@@ -4,7 +4,7 @@ entries:
   - apiVersion: v1
     appVersion: "0.2"
     created: "2020-06-04T10:44:08.47424+08:00"
-    description: Ｍetacontroller
+    description: etacontroller
     digest: a79fccd57b16ed49e98b4cb53e301bcbcac46dd46e4d2fd080142816346d97bd
     name: metacontroller
     urls:
