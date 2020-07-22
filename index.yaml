@@ -27,4 +27,13 @@ entries:
     urls:
     - https://charts.infuseai.io/primehub-2.7.0-rc.1.tgz
     version: 2.7.0-rc.1
-generated: "2020-06-11T07:43:44.610956132Z"
+  - apiVersion: v1
+    appVersion: v2.7.0-rc.1-124-gaa08218
+    created: "2020-07-22T03:43:43.75345354Z"
+    description: Machine learning platform for enterprises.
+    digest: 6c9286b57669a31f9832e47a21b0a646fe98891cd12cf5759543d91923b55145
+    name: primehub
+    urls:
+    - https://github.com/yuanbw/helm-chart.git/primehub-1.0.0-aa08218.tgz
+    version: 1.0.0-aa08218
+generated: "2020-07-22T03:43:43.740186558Z"
