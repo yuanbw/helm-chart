@@ -19,4 +19,13 @@ entries:
     urls:
     - https://github.com/yuanbw/helm-chart.git/primehub-1.0.0-e923771.tgz
     version: 1.0.0-e923771
-generated: "2020-07-23T06:27:35.277934276Z"
+  - apiVersion: v1
+    appVersion: v2.7.0-rc.1-129-g9411af6
+    created: "2020-07-23T07:00:39.464277024Z"
+    description: Machine learning platform for enterprises.
+    digest: 8419327b7b33e1a0f7482c576c269b9c28cf4c0ddaf1010162bd7f79bae234c3
+    name: primehub
+    urls:
+    - https://github.com/yuanbw/helm-chart.git/primehub-1.0.0-9411af6.tgz
+    version: 1.0.0-9411af6
+generated: "2020-07-23T07:00:39.452708547Z"
